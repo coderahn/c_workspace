@@ -34,7 +34,7 @@ int conv_pos_y(int y);
 void printAnimals();
 void printQuestion();
 
-int main(void) {
+int main_m_array_project(void) {
     srand(time(NULL));
 
     initAnimalArray();
