@@ -9,7 +9,7 @@ struct GameInfo {
 
 int main(void) {
     //게임출시1
-    //이름
+    //이름zz
     //제작년도
     //가격
     //제작사
