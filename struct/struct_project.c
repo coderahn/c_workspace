@@ -30,7 +30,7 @@ void printCat(int selected);
 
 int checkCollection();
 
-int main(void) {
+int main_struct_project(void) {
     srand(time(NULL));
 
     initCats();
